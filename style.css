@@ -1,1 +1,35 @@
-nav class = navbar { color: red  size: 30px} 
+body{
+    background-image: url(DRAFT-IMG.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+#box1{
+    border: 5px solid;
+    height: 60px;
+    width: 40px;
+    font-size: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    float: left;
+}
+    p{
+     background: linear-gradient( to right, green, yellow);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+    }
+.navbar{
+    background: linear-gradient(green, to right, yellow);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    font-size: 25px;
+    font-weight: bold
+    
+
+
+}
+    
