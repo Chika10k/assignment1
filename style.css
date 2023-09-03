@@ -1,5 +1,5 @@
 body{
-    background-image: url(DRAFT-IMG.png);
+    background-image: url(babkground.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -16,16 +16,26 @@ body{
     padding-right: 20px;
     float: left;
 }
+
+header{
+    background-color: whitesmoke;
+    font-size: 25px;
+    font-weight: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+    margin-top: 2px;
+    }
     p{
      background: linear-gradient( to right, green, yellow);
      background-repeat: no-repeat;
      background-attachment: fixed;
     }
 .navbar{
-    background: linear-gradient(green, to right, yellow);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-
+    float: right;
+}
+    
+    -
+float: right;
     font-size: 25px;
     font-weight: bold
     
